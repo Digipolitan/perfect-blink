@@ -5,6 +5,8 @@ import Foundation
 /**
  * Blink middleware is a request body, query, params parser
  * Works with JSON, raw, text, urlencoded, form-data body parameters
+ * @author Benoit BRIATTE http://www.digipolitan.com
+ * @copyright 2017 Digipolitan. All rights reserved.
  */
 open class Blink : Middleware {
 
